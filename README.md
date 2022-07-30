@@ -3,4 +3,6 @@
 
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
 
-Free online courses:
+KQL Free online courses:
+--
+
