@@ -14,5 +14,4 @@ KQL Free online courses:
 
 [Redeem This Offer Now!](https://www.pluralsight.com/partners/microsoft/azure-data-explorer)
 
-
 <a href="https://www.pluralsight.com/partners/microsoft/azure-data-explorer"><img src="/media/KQL_free_online_courses.jpg" /> </a>
