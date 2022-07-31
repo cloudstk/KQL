@@ -3,6 +3,7 @@
 
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
 
+[Create and run a Kusto (KQL) notebook](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-kusto-kernel?view=sql-server-ver16) 
 
 KQL Free online courses:
 --
