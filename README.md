@@ -5,6 +5,11 @@
 
 [Create and run a Kusto (KQL) notebook](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-kusto-kernel?view=sql-server-ver16) 
 
+KQL quick reference]([https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-kusto-kernel?view=sql-server-ver16](https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference) 
+
+SQL to Kusto cheat sheet
+
+
 KQL Free online courses:
 --
 * How to Start with Microsoft Azure Data Explorer
