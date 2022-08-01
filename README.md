@@ -11,7 +11,6 @@
 
 
 
-
 KQL Free online courses:
 --
 * How to Start with Microsoft Azure Data Explorer
