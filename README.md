@@ -9,6 +9,7 @@
 
 [SQL to Kusto cheat sheet](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet)
 
+[Azure Monitor Logs table reference](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-category)
 
 
 KQL Free online courses:
