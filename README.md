@@ -19,6 +19,6 @@ KQL Free online courses:
 
 * Microsoft Azure Data Explorer - Advanced KQL
 
-[Redeem This Offer!](https://www.pluralsight.com/partners/microsoft/azure-data-explorer)
+[Redeem This Offer!, Click on this link to register and get started.](https://www.pluralsight.com/partners/microsoft/azure-data-explorer)
 
 <a href="https://www.pluralsight.com/partners/microsoft/azure-data-explorer"><img src="/media/KQL_free_online_courses.jpg" /> </a>
