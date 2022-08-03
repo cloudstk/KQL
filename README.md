@@ -13,6 +13,7 @@
 
 [Microsoft Sentinel data source schema reference](https://docs.microsoft.com/en-us/azure/sentinel/data-source-schema-reference)
 
+
 KQL Free online courses:
 --
 * How to Start with Microsoft Azure Data Explorer
