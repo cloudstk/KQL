@@ -11,6 +11,7 @@
 
 [Azure Monitor Logs table reference](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-category)
 
+[Microsoft Sentinel data source schema reference](https://docs.microsoft.com/en-us/azure/sentinel/data-source-schema-reference)
 
 KQL Free online courses:
 --
