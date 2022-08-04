@@ -13,6 +13,7 @@
 
 [Microsoft Sentinel data source schema reference](https://docs.microsoft.com/en-us/azure/sentinel/data-source-schema-reference)
 
+[Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)
 
 KQL Free online courses:
 --
