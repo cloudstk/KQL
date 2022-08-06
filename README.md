@@ -13,6 +13,7 @@
 
 [Microsoft Sentinel data source schema reference](https://docs.microsoft.com/en-us/azure/sentinel/data-source-schema-reference)
 
+[Understand the advanced hunting schema](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-query-language?view=o365-worldwide)
 
 KQL Free online courses:
 -----
