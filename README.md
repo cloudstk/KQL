@@ -15,6 +15,8 @@
 
 [Understand the advanced hunting schema](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-query-language?view=o365-worldwide)
 
+[Diagnostic logs for Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics#diagnostic-logging)
+
 KQL Free online courses:
 -----
 * How to Start with Microsoft Azure Data Explorer
