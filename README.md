@@ -17,6 +17,8 @@
 
 [Diagnostic logs for Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics#diagnostic-logging)
 
+[Kusto CLI](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-cli)
+
 KQL Free online courses:
 ----------
 * How to Start with Microsoft Azure Data Explorer
