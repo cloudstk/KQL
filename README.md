@@ -18,7 +18,7 @@
 [Diagnostic logs for Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics#diagnostic-logging)
 
 KQL Free online courses:
------
+----------
 * How to Start with Microsoft Azure Data Explorer
 
 * Exploring Data in Microsoft Azure Using Kusto Query Language and Azure Data Explorer
