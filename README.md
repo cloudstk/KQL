@@ -19,6 +19,9 @@
 
 [Kusto CLI](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-cli)
 
+[Azure Data Explorer data ingestion overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
+
+
 KQL Free online courses:
 ----------
 * How to Start with Microsoft Azure Data Explorer
