@@ -21,6 +21,7 @@
 
 [Azure Data Explorer data ingestion overview](https://docs.microsoft.com/en-us/azure/data-explorer/ingest-data-overview)
 
+[Data formats supported by Azure Data Explorer for ingestion](https://docs.microsoft.com/en-us/azure/data-explorer/ingestion-supported-formats)
 
 KQL Free online courses:
 ----------
