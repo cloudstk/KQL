@@ -1,2 +1,2 @@
 
-# Kusto Query Language in 100 minutes
+# Kusto Query Language(KQL) in 100 minutes
