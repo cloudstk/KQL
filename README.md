@@ -24,6 +24,8 @@ Kusto Query Language (KQL)
 
 [Data formats supported by Azure Data Explorer for ingestion](https://docs.microsoft.com/en-us/azure/data-explorer/ingestion-supported-formats)
 
+[Microsoft Defender for Endpoint P2 Trial](https://aka.ms/MDEp2OpenTrial?ocid=docs-wdatp-enablesiem-abovefoldlink)
+
 KQL Free online courses:
 ----------
 * How to Start with Microsoft Azure Data Explorer
