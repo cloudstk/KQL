@@ -1,5 +1,5 @@
-Kusto Query Language (KQL)
----
+# Kusto Query Language (KQL)
+
 [KQL Reference](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) 
 
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
@@ -27,7 +27,7 @@ Kusto Query Language (KQL)
 [Microsoft Defender for Endpoint P2 Trial](https://aka.ms/MDEp2OpenTrial?ocid=docs-wdatp-enablesiem-abovefoldlink)
 
 KQL Free online courses:
-----------
+-----------
 * How to Start with Microsoft Azure Data Explorer
 
 * Exploring Data in Microsoft Azure Using Kusto Query Language and Azure Data Explorer
