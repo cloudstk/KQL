@@ -25,6 +25,7 @@
 [Data formats supported by Azure Data Explorer for ingestion](https://docs.microsoft.com/en-us/azure/data-explorer/ingestion-supported-formats)
 
 [Microsoft Defender for Endpoint P2 Trial](https://aka.ms/MDEp2OpenTrial?ocid=docs-wdatp-enablesiem-abovefoldlink)
+[Query best practices] (https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices?source=recommendations)
 
 KQL Free online courses:
 -----------
