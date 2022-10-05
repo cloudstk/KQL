@@ -1,1 +1,2 @@
 
+KQL Union Operator
