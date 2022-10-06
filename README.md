@@ -28,6 +28,8 @@
 
 [Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices?source=recommendations)
 
+[Azure Data Explorer free cluster](http://aka.ms/kustofree)
+
 KQL Free online courses:
 -----------
 * How to Start with Microsoft Azure Data Explorer
