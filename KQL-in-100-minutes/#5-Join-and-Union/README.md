@@ -1,3 +1,3 @@
 
 KQL Union Operator
---
+
