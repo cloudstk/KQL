@@ -2,6 +2,8 @@ Kusto Query Language (KQL)
 --
 [KQL Reference](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) 
 
+[Samples for Kusto Queries](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/samples?pivots=azuredataexplorer)
+
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
 
 [Create and run a Kusto (KQL) notebook](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-kusto-kernel?view=sql-server-ver16) 
